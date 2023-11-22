@@ -1,2 +1,3 @@
 Primer fichero en creado en PC.
+Mi segunda línea desde prueba2.
 Cambio hecho en rama prueba.
