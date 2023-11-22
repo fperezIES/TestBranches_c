@@ -1,2 +1,3 @@
 Primer fichero en creado en PC.
+Línea conflictiva desde main.
 Cambio hecho en rama prueba.
